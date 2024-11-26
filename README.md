@@ -13,5 +13,4 @@ TracingPyper is a Python application designed for edge detection and tracing of 
 
 ![overlay](https://github.com/user-attachments/assets/8bbbcac5-6e85-4353-954c-6d29bb1efbe0)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/0053b897-a805-43ab-b776-47fccf1c5069)
 
