@@ -13,6 +13,6 @@
 
 <img src="https://github.com/user-attachments/assets/7d725299-c252-44f8-8332-cbc16498bd9b" alt="Screenshot 2024-11-26 231616" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/8bbbcac5-6e85-4353-954c-6d29bb1efbe0" alt="overlay" width="500"/>
+<img src="https://github.com/user-attachments/assets/8bbbcac5-6e85-4353-954c-6d29bb1efbe0" alt="overlay" width="400"/>
 
 
