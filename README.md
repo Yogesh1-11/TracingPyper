@@ -2,6 +2,8 @@
 # TracingPyper
 ![Picture2](https://github.com/user-attachments/assets/b5c0e661-0cb5-4995-b3f8-fcd96fa81739)
 
+![Picture2](https://github.com/user-attachments/assets/a4019561-4766-4d69-86e3-1b9437ccd425)
+
 TracingPyper is a Python application designed for edge detection and tracing of microscopy images. The app allows users to manipulate edge detection sensitivity, overlay and edit generated traces, and save images with transparent backgrounds. Additionally, users can open these images in paint or other drawing tools for further customization and coloring.
 
 #Features
